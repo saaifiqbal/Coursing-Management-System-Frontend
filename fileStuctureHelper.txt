@@ -1,0 +1,15 @@
+view = routes and pages with page own components
+
+asset = img, css, svg, files
+
+components = shared components
+
+services = api logic
+
+utils = functions that are reusable
+
+hooks = custom hooks or function
+
+store = reducer
+
+
